@@ -66,7 +66,7 @@ This was one of the first end-to-end EDA projects where I got to apply code and 
 I learned a lot about storytelling with data, especially how patterns can reveal the “why” behind client behavior.
 
 📫 aryanraher@gmail.com  
-🔗 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/aryanraher/))
+🔗 [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/aryanraher/)
 
 ---
 
